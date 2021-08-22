@@ -12,5 +12,8 @@ Let's collect some useful QA's on stack overflow.
 # Java
 1.  [Converting 2D ArrayList to 2D Array](https://stackoverflow.com/questions/31522416/converting-2d-arraylist-to-2d-array/31523445)
 
+# GitHub
+1. [How do I create a folder in a GitHub repository?](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
+
 # About Stack Overflow
 1.  [Tour through Stack Overflow.](https://stackoverflow.com/tour)
