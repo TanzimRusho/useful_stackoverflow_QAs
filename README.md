@@ -4,7 +4,7 @@ Let's collect some useful QA's on stack overflow.
 # Python
 1. [Accessing items in an collections.OrderedDict by index](https://stackoverflow.com/questions/10058140/accessing-items-in-an-collections-ordereddict-by-index)  
 2. [int to string without using buil-in function.](https://stackoverflow.com/questions/44489030/trying-to-convert-int-to-string-without-using-in-built-function-in-python-3/52061649)
-3. [Why are Python codes slower than equivalent codes in C/C++](https://stackoverflow.com/questions/3033329/why-are-python-programs-often-slower-than-the-equivalent-program-written-in-c-or)
+3. [Why are Python codes often slower than equivalent programs in C/C++?](https://stackoverflow.com/questions/3033329/why-are-python-programs-often-slower-than-the-equivalent-program-written-in-c-or)
 
 # Google Colab 
 1. [Audio Notification on Colab](https://stackoverflow.com/questions/54293537/is-there-a-way-to-make-colab-give-an-audio-notification-when-cell-has-finished-r)
@@ -21,4 +21,4 @@ Let's collect some useful QA's on stack overflow.
 1. [How do I create a folder in a GitHub repository?](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
 
 # About Stack Overflow
-1.  [Tour through Stack Overflow.](https://stackoverflow.com/tour)
+1. [Tour through Stack Overflow.](https://stackoverflow.com/tour)
