@@ -9,7 +9,8 @@ Let's collect some useful QA's on stack overflow.
 
 # Google Colab 
 * [Audio Notification on Colab](https://stackoverflow.com/questions/54293537/is-there-a-way-to-make-colab-give-an-audio-notification-when-cell-has-finished-r)
-    
+* [Persistent authorisation for mounting Google Drive in Google Colab [duplicate]](https://stackoverflow.com/questions/53752102/persistent-authorisation-for-mounting-google-drive-in-google-colab)
+
 # Java
 * [Converting 2D ArrayList to 2D Array](https://stackoverflow.com/questions/31522416/converting-2d-arraylist-to-2d-array/31523445)
 
