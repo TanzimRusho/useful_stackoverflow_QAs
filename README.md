@@ -24,7 +24,8 @@ Let's collect some useful QA's on stack overflow.
 3. [Change URL in address bar but keep on same page](https://stackoverflow.com/questions/10801321/change-url-in-address-bar-but-keep-on-same-page)
 
 ## GitHub
-1. [How do I create a folder in a GitHub repository?](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
+* [How do I create a folder in a GitHub repository?](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository)
+* [How do you merge two Git repositories?](https://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories)
 
 ## About Stack Overflow
 * [Tour through Stack Overflow.](https://stackoverflow.com/tour)
