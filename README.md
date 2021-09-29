@@ -6,6 +6,7 @@ Let's collect some useful QA's on stack overflow.
 * [int to string without using buil-in function.](https://stackoverflow.com/questions/44489030/trying-to-convert-int-to-string-without-using-in-built-function-in-python-3/52061649)
 * [Why are Python codes often slower than equivalent programs in C/C++?](https://stackoverflow.com/questions/3033329/why-are-python-programs-often-slower-than-the-equivalent-program-written-in-c-or)
 * [How to get description on Python Method?](https://stackoverflow.com/questions/57875302/how-to-get-description-on-python-method/57875402)
+* [Euclidean algorithm (GCD) with multiple numbers?](https://stackoverflow.com/questions/16628088/euclidean-algorithm-gcd-with-multiple-numbers)
 
 ## Google Colab 
 * [Audio Notification on Colab](https://stackoverflow.com/questions/54293537/is-there-a-way-to-make-colab-give-an-audio-notification-when-cell-has-finished-r)
